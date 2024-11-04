@@ -7,7 +7,7 @@ load_dotenv(".env")
 API_ID: int = os.getenv('API_ID', 23346063)
 API_HASH: str = os.getenv('API_HASH', "91a8bfefb69664b2770d41c9876e052e")
 
-BOT_TOKEN = os.getenv("7615008031:AAFbKJ47-GYjyornEuRtOkZjpaW6RWLAPM8")
+BOT_TOKEN = os.getenv("")
 
 OWNER_ID = int(os.getenv("1835508209"))
 
