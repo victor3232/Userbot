@@ -4,8 +4,8 @@ from dotenv import load_dotenv
 
 load_dotenv(".env")
 
-API_ID: int = os.getenv('API_ID', 24980886)
-API_HASH: str = os.getenv('API_HASH', "51a392c893abd52f04186bb44ba3b3aa")
+API_ID: int = os.getenv('API_ID', 23346063)
+API_HASH: str = os.getenv('API_HASH', "91a8bfefb69664b2770d41c9876e052e")
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
