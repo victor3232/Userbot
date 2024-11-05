@@ -7,11 +7,11 @@ load_dotenv(".env")
 API_ID: int = os.getenv('API_ID', 23346063)
 API_HASH: str = os.getenv('API_HASH', "91a8bfefb69664b2770d41c9876e052e")
 
-BOT_TOKEN = os.getenv("")
+BOT_TOKEN = os.getenv("_")
 
 OWNER_ID = int(os.getenv("1835508209"))
 
-LOGS_MAKER_UBOT = int(os.getenv("-1001948756607"))
+LOGS_MAKER_UBOT = int(os.getenv("1835508209"))
 
 MAX_BOT = int(os.getenv("30"))
 
