@@ -19,12 +19,12 @@
         "OWNER_ID": {
             "description": "Fill there your I'd go to @geezramrobot pm and type /id",
             "required": true,
-            "value": "1709137612"
+            "value": "1835508209"
         },
         "LOGS_MAKER_UBOT": {
             "description": "Log group",
             "required": true,
-            "value": "1709137612"
+            "value": "1835508209"
         },
         "MAX_BOT": {
             "description": "maksimal",
