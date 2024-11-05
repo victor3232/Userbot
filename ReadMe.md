@@ -1,12 +1,12 @@
 CMD RUN BOT DI VPS
 ```
-git clone https://github.com/pakiubot/ubotv1
+git clone https://github.com/victor3232/Userbot
 ```
 ```
-pakiubot
+Userbot
 ```
 ```
-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
+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
 ```
 ```
 sudo apt update && sudo apt upgrade -y
@@ -15,10 +15,10 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3.10-venv ffmpeg -y
 ```
 ```
-cd ubotv1
+cd Userbot
 ```
 ```
-screen -S ubotv1
+screen -S Userbot
 ```
 ```
 python3 -m venv didin - (awal deploy aja)
