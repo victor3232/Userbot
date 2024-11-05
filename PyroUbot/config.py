@@ -11,7 +11,7 @@ BOT_TOKEN = os.getenv("7615008031:AAFbKJ47-GYjyornEuRtOkZjpaW6RWLAPM8")
 
 OWNER_ID = int(os.getenv("1835508209"))
 
-LOGS_MAKER_UBOT = int(os.getenv("1835508209"))
+LOGS_MAKER_UBOT = int(os.getenv("LOGS_MAKER_UBOT"))
 
 MAX_BOT = int(os.getenv("30"))
 
